@@ -32,4 +32,4 @@ PyTorch TabNet
 
 **Smart oversampling > brute force**: Adaptive, model-aware duplication creates robust, production-ready fraud detectors.
 
-Runtime: ~5 min on GPU | ~15 hrs on CPU
+Runtime: ~5 min on GPU | ~15 hrs on CPU (on google colab)
