@@ -30,7 +30,7 @@ To get started:
 
 * Clone this repository.
 
-* Open and run the Oversampling_main.ipynb notebook in your preferred environment (Google Colab recommended for GPU support).
+* Open and run the Oversampling_main.ipynb notebook in your preferred environment (OR you can open it in Google Colab, after opening it in GitHub).
 
 * Follow the step-by-step instructions in the notebook to reproduce the results and explore the novel oversampling strategy.
 
