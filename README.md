@@ -25,6 +25,16 @@ XGBoost
 
 PyTorch TabNet
 
+# ⚡ Quick Start
+To get started:
+
+* Clone this repository.
+
+* Open and run the Oversampling_main.ipynb notebook in your preferred environment (Google Colab recommended for GPU support).
+
+* Follow the step-by-step instructions in the notebook to reproduce the results and explore the novel oversampling strategy.
+
+
 # 💡 What I Learned
 **Math-driven modeling**: It is everything. Focusing on the hardest samples (by prediction error) delivers far better generalization than generic oversampling.
 
