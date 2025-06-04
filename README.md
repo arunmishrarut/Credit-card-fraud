@@ -1,6 +1,6 @@
 
 # ⚡ Model-Driven Oversampling for Fraud Detection
-This repository showcases a novel, math-driven, and original oversampling strategy for imbalanced credit card fraud detection—outperforming all standard projects and benchmarks!
+This repository showcases a **novel, math-driven, and original oversampling strategy for imbalanced credit card fraud detection** . It **outperforms SMOTE, ADASYN, TabNet(transformer-based model for tabular data),and  base model** itself.
 
 🚀 Key Highlights
 * **Mathematical Innovation**: Hard-to-classify cases are detected using a custom scoring formula based on model prediction probabilities.
