@@ -38,7 +38,7 @@ To get started:
 # 💡 What I Learned
 * **Math-driven modeling**: It is everything. Focusing on the hardest samples (by prediction error) delivers far better generalization than generic oversampling.
 
-* **Originality**: I won’t shy away from saying I felt elated by what I built. After hundreds of iterations,reading research papers, and over 100+ hours on Google Colab GPU runtime, it was all truly worth it.
+* **Originality**: After hundreds of iterations,reading research papers, and over 100+ hours on Google Colab GPU runtime, it was all worth it. There is so much to add to it but for now, I will leave it here. 
 
 * **Smart oversampling > brute force**: Adaptive, model-aware duplication creates robust, production-ready fraud detectors.
 
