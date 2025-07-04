@@ -9,7 +9,7 @@ This repository showcases a **novel, math-driven, and original oversampling stra
 
 * **Adaptive Lambda Tuning**: Intelligently balances class ratios without ballooning dataset size.
 
-* **Benchmarking**: Surpasses Baseline, SMOTE, ADASYN, and TabNet—see the notebook for results!
+* **Benchmarking**: Surpasses Baseline, SMOTE, ADASYN, and TabNet with far fewer oversamples—see the notebook for results!
 
 *  **No Data Leakage**: Test set is strictly held out for honest evaluation.
 
